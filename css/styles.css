@@ -139,3 +139,20 @@ p {
   padding: 3% 2%;
 
 }
+
+/* Media Queries */
+
+@media (max-width: 1028px) {
+
+  #title {
+    text-align: center;
+  }
+
+  .title-img {
+    position: static;
+    transform: rotate(0);
+  }
+
+
+
+}
